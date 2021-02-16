@@ -6,6 +6,7 @@
 1. [LTC](#ltc)
 1. [BCH](#bch)
 1. [DOGE](#doge)
+1. [DASH](#dash)
 
 <details>
   <summary><b id="btc">Bitcoin BTC</b></summary>
@@ -35,4 +36,10 @@
   <summary><b id="doge">Dogecoin DOGE</b></summary>
 
 ```DCUcHeRmQyX7Pkfh4R8vbyoimMdTQ56cPb```
+</details>
+
+<details>
+  <summary><b id="dash">Dash DASH</b></summary>
+
+```Xu7szyAwcJm7AeF9WYuSbhNPKtnwRhM2dK```
 </details>
