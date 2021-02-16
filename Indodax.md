@@ -3,6 +3,7 @@
 ## Table of Contents
 1. [BTC](#btc)
 1. [ETH](#eth)
+1. [LTC](#ltc)
 1. [BCH](#bch)
 
 <details>
@@ -15,6 +16,12 @@
   <summary><b id="eth">ETH</b></summary>
 
 ```0x77feaa767d10dab4b42e68e264afbf012309f02e```
+</details>
+
+<details>
+  <summary><b id="ltc">LTC</b></summary>
+
+```LM1BeV6qkJRAGJonaCMn2YxjJCajqfAY6r```
 </details>
 
 <details>
