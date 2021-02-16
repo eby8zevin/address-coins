@@ -5,8 +5,8 @@
 1. [ETH](#eth)
 1. [BCH](#bch)
 
-<details id="btc">
-  <summary><b>BTC</b></summary>
+<details>
+  <summary><b id="btc">BTC</b></summary>
 
 ```18KKGv4b7QRgHNqKzpKDt4zNR6Et5NzC3M```
 </details>
