@@ -1,4 +1,4 @@
-# Indodax
+# Bitcoin - Indodax
 
 ## Table of Contents
 1. [BTC](#btc)
