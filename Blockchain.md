@@ -3,27 +3,19 @@
 ## Table of Contents
 1. [BTC](#btc)
 1. [ETH](#eth)
-1. [LTC](#ltc)
 1. [BCH](#bch)
-1. [DOGE](#doge)
-1. [DASH](#dash)
+1. [XLM](#xlm)
 
 <details>
   <summary><b id="btc">Bitcoin BTC</b></summary>
 
-```P```
+```1NVB342VbqrTruF3jraWes12KuzY9aDjwe```
 </details>
 
 <details>
   <summary><b id="eth">Ethereum ETH</b></summary>
 
-```P```
-</details>
-
-<details>
-  <summary><b id="ltc">Litecoin LTC</b></summary>
-
-```P```
+```0xEdAE7e18973cff42D2d32633740253Ee76FE1628```
 </details>
 
 <details>
@@ -33,13 +25,7 @@
 </details>
 
 <details>
-  <summary><b id="doge">Dogecoin DOGE</b></summary>
-
-```P```
-</details>
-
-<details>
-  <summary><b id="dash">Dash DASH</b></summary>
+  <summary><b id="xlm">Stelar XLM</b></summary>
 
 ```P```
 </details>
