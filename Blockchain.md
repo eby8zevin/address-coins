@@ -25,7 +25,7 @@
 </details>
 
 <details>
-  <summary><b id="xlm">Stelar XLM</b></summary>
+  <summary><b id="xlm">Stellar XLM</b></summary>
 
 ```P```
 </details>
