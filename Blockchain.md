@@ -21,11 +21,11 @@
 <details>
   <summary><b id="bch">Bitcoin Cash BCH</b></summary>
 
-```P```
+```BCH```
 </details>
 
 <details>
   <summary><b id="xlm">Stellar XLM</b></summary>
 
-```P```
+```XLM```
 </details>
